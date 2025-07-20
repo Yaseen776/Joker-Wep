@@ -4,7 +4,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
 API_TOKEN = 'YOUR_BOT_TOKEN'
-bot = Bot(token=API_TOKEN)
+bot = Bot7675016991:AAFHT2IQYDOn4_ENppHqV8vOIudwBQXs9hM
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['start'])
