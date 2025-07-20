@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #222, #444);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #00bfa5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
