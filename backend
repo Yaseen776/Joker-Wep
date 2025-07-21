@@ -1,0 +1,2 @@
+npm install telegraf ton --save
+node bot.js
