@@ -31,4 +31,4 @@ bot.command("startgame", async ctx => {
   rooms[ctx.chat.id] = [];  // إعادة تعيين الجولة
 });
 
-bot.launch();
+bot.launch();node bot.js
